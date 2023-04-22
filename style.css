@@ -1,0 +1,218 @@
+
+.background{
+    
+width: 1512px;
+height: 982px;
+background: linear-gradient(180deg, rgba(255, 153, 0, 0.42) 0%, rgba(255, 255, 255, 0) 0.01%, #000000 0.02%, rgba(33, 20, 0, 0.977879) 44.79%, rgba(175, 105, 0, 0.883261) 52.6%, #000000 64.06%, #000000 96.88%);
+;
+}
+    
+.image1{
+    position: fixed;
+    left: 6%;
+    right: 87.3%;
+    top: 3.46%;
+    bottom: 85.39%;
+    background: url(image1.png);
+    filter: drop-shadow(4px 4px 4px 4px#FFFFFF);
+    }
+    
+.menubut{
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+}    
+
+.image1:hover{
+    background-color: gray ;
+}
+    
+.Vector18{
+    background: url(images/Vector18.png); 
+    display: block;
+    position: absolute;
+    left: 40.01%;
+    right: 1.19%;
+    top: 14.56%;
+    bottom: 10.69%;
+    width: 889px;
+    height: 734px;}
+
+.Vector18:hover{
+    background: url(images/Vector\ 1.2.2.png);
+    position: absolute;
+    left: 40.01%;
+    right: 1.19%;
+    top: 14.56%;
+    bottom: 10.69%;
+    width: 889px;
+    height: 734px; 
+}
+
+.Rectangle{
+    position: fixed;
+    left: 2.51%;
+    right: 48.15%;
+    top: 16.19%;
+    bottom: 50%;
+    
+    background: rgba(255, 255, 255, 0.47);
+    border-radius: 31px;
+    }
+    
+.text1{
+    position: fixed;
+    left: 5.03%;
+    right: 80.09%;
+    top: 6%;
+    bottom: 90%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    }
+    
+.text2{
+    position: fixed;
+    left: 5.03%;
+    right: 83.01%;
+    top: 12%;
+    bottom: 96%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    }
+    
+.text3{
+    position: fixed;
+    left: 5.4%;
+    right: 85%;
+    top: 18.2%;
+    bottom: 85%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    }
+    
+.text4{
+    position: fixed;
+    left: 5.43%;
+    right: 77.57%;
+    top: 24.35%;
+    bottom: 80%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    }
+    
+.text5{
+    position: fixed;
+    left: 5.3%;
+    right: 72.3%;
+    top: 30.5%;
+    bottom: 75%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    }
+
+.but1{
+    cursor: pointer;
+    background-color: transparent;
+    position: fixed;
+    left: 6%;
+    right: 81%;
+    top: 17%;
+    bottom: 90%;
+    height: 35px;
+    border: none;
+    } 
+
+.but2{
+    cursor: pointer;
+    background-color: transparent;
+    position: fixed;
+    left: 6.03%;
+    right: 84%;
+    top: 23%;
+    bottom: 91%;
+    height: 35px;
+    border: none;    
+         } 
+.but3{
+    cursor: pointer;
+    background-color: transparent;
+    position: fixed;
+    left: 6%;
+    right: 85.5%;
+    top: 29.3%;
+    bottom: 65.78%;
+    height: 35px;
+    border: none;        
+    } 
+.but4{
+    cursor: pointer;
+    background-color: transparent;
+    position: fixed;
+    left: 6.03%;
+    right: 78%;
+    top: 35.35%;
+    bottom: 59.78%;
+    height: 35px;
+    border: none;            
+    } 
+.but5{
+    cursor: pointer;
+    background-color: transparent;
+    position: fixed;
+    left: 6%;
+    right: 73%;
+    top: 41.5%;
+    bottom: 90%;
+    height: 35px;
+    border: none;   
+    } 
+
+.text1:hover{
+    color: #FFFFFF;
+}
+
+.text2:hover{
+    color: #FFFFFF;
+}
+
+.text3:hover{
+    color: #FFFFFF;
+}
+
+.text4:hover{
+    color: #FFFFFF;
+}
+
+.text5:hover{
+    color: #FFFFFF;
+}
